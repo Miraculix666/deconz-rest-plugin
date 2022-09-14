@@ -52,6 +52,9 @@ static const ProductMap products[] =
     {"_TYST11_KGbxAXL2", "GbxAXL2", "Saswell", "Tuya_THD SEA801-ZIGBEE TRV"},
     {"_TYST11_c88teujp", "88teujp", "Saswell", "Tuya_THD SEA801-ZIGBEE TRV"},
     {"_TZE200_c88teujp", "TS0601", "Saswell", "Tuya_THD SEA801-ZIGBEE TRV"},
+   /// Testing ME167 TVR
+    {"_TZE200_bvu2wnxz", "TS0601", "MYUET", "Tuya_THD SEA801-ZIGBEE TRV"},
+   ///
     {"_TYST11_ckud7u2l", "kud7u2l", "Tuya", "Tuya_THD HY369 TRV"},
     {"_TZE200_ckud7u2l", "TS0601", "Tuya", "Tuya_THD HY369 TRV"},
     {"_TZE200_ywdxldoj", "TS0601", "MOES/tuya", "Tuya_THD HY368 TRV"},
